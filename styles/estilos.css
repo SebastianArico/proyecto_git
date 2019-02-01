@@ -13,3 +13,10 @@ body{
 	height: 50px;
 	background-color: #F30C0C;
 }
+
+#botonDos{
+	width: 100px;
+	height: 50px;
+	background-color: blue;
+
+}
