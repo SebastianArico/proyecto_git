@@ -7,3 +7,9 @@
 body{
 	background-color: #CCE4FF;
 }
+
+#boton{
+	width: 100px;
+	height: 50px;
+	background-color: #F30C0C;
+}
